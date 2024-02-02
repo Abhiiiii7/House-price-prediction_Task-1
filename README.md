@@ -1,2 +1,8 @@
 # House-price-prediction_Task-1
-Use a dataset of house prices, split it into training and testing sets, and build a  regression model using Scikit-learn.
+Apply regression techniques to estimate the future value that a customer will bring
+to the business.
+
+Aim -
+
+Building a simple linear regression model to predict house prices based on features like
+the number of bedrooms and square footage.
